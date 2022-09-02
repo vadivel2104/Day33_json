@@ -1,0 +1,8 @@
+Hi [contact],
+
+This is a mock python automated message test,
+looks like today's ([date]) weather will be mostly like "[weather]".
+
+source: https://openweathermap.org/current
+
+Have a nice day!☺
